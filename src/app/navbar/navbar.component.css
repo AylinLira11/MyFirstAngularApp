@@ -1,0 +1,11 @@
+.color {
+    background: #374d61;
+}
+
+.nav-item, .navbar-brand {
+    color: white;
+}
+
+.navbar-brand {
+    padding-left: 100px;
+}
